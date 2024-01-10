@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf3aba9ee4b7094fbdf773c4a08d0c7, type: 3}
+  m_Name: Flags Table
+  m_EditorClassIdentifier: 
+  flags:
+  - Name: Stage 1 Complete
+    state: 0
+  - Name: Stage 2 Complete
+    state: 0
+  - Name: Stage 3 Complete
+    state: 0
+  - Name: Stage 4 Complete
+    state: 0
+  - Name: Coins 10000
+    state: 0

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ee0906b6d0ad441aa53b5918edbd2c, type: 3}
+  m_Name: John(Character)
+  m_EditorClassIdentifier: 
+  Name: John
+  spritePrefab: {fileID: 4137165914691390740, guid: c02ad915db4420c47809e0c92eb1bf41, type: 3}
+  startingWeapon: {fileID: 11400000, guid: 8bb5d84cdbc15a1419ee89164e9db658, type: 2}
